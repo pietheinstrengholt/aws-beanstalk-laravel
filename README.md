@@ -4,7 +4,7 @@
 ## About
 An example template for deploying Laravel applications with AWS Beanstalk.
 
-# Explanation
+## Explanation
 Just copy and paste the files from this repository to your Laravel project. Beanstalk uses a zip file for the final deployment, so you need to add your .env file to the final package as well. The .env file should have the APP_KEY properly set.
 
 ## 01init.config script
